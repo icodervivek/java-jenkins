@@ -10,5 +10,7 @@ public class Main{
         student.getStudent();
         
         System.out.println("Let's test after pushing to ec2");
+
+        System.out.println("Did a good job while integrating this app from local to EC2 to Jenkins!");
     }
 }
