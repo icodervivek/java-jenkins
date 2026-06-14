@@ -7,6 +7,8 @@ public class Main{
         System.out.println("This is after commit 2.");
 
         Student student = new Student();
-        student.getStudent(); 
+        student.getStudent();
+        
+        System.out.println("Let's test after pushing to ec2");
     }
 }
