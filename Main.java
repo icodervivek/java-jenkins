@@ -13,6 +13,8 @@ public class Main{
 
         System.out.println("Test 123");
 
+        System.out.println("EC2 not working...");
+
         System.out.println("Did a good job while integrating this app from local to EC2 to Jenkins!");
     }
 }
