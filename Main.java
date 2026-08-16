@@ -12,6 +12,7 @@ public class Main{
         student.getDepartment();
         student.getKey();
         student.getChoice();
+        student.getResult();
         
         System.out.println("Let's test after pushing to ec2");
 
