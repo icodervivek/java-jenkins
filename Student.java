@@ -16,4 +16,8 @@ public class Student {
         System.out.println("Hi, I'm in Computer Science department.");
     }
 
+    public void getKey(){
+        System.out.println("key: vivs");
+    }
+
 }
