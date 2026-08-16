@@ -8,4 +8,8 @@ public class Student {
         System.out.println("Hi, I'm student.");
     }
 
+    public void getCourse(){
+        System.out.println("Hi, I'm in MCA.");
+    }
+
 }
