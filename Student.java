@@ -28,4 +28,8 @@ public class Student {
         System.out.println("passed");
     }
 
+    public void getName(){
+        System.out.println("vivs");
+    }
+
 }
