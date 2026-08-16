@@ -24,4 +24,8 @@ public class Student {
         System.out.println("backend");
     }
 
+    public void getResult(){
+        System.out.println("passed");
+    }
+
 }
