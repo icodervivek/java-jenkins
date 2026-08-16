@@ -12,4 +12,8 @@ public class Student {
         System.out.println("Hi, I'm in MCA.");
     }
 
+    public void getDepartment(){
+        System.out.println("Hi, I'm in Computer Science department.");
+    }
+
 }
