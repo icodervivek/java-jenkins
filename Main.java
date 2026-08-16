@@ -13,6 +13,7 @@ public class Main{
         student.getKey();
         student.getChoice();
         student.getResult();
+        student.getName();
         
         System.out.println("Let's test after pushing to ec2");
 
