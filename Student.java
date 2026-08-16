@@ -19,5 +19,9 @@ public class Student {
     public void getKey(){
         System.out.println("key: vivs");
     }
+    
+    public void getChoice(){
+        System.out.println("backend");
+    }
 
 }
