@@ -9,6 +9,7 @@ public class Main{
         Student student = new Student();
         student.getStudent();
         student.getCourse();
+        student.getDepartment();
         
         System.out.println("Let's test after pushing to ec2");
 
