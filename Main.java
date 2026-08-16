@@ -10,6 +10,7 @@ public class Main{
         student.getStudent();
         student.getCourse();
         student.getDepartment();
+        student.getKey();
         
         System.out.println("Let's test after pushing to ec2");
 
