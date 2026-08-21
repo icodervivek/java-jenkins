@@ -16,6 +16,7 @@ public class Main{
         student.getName();
         student.getMoreInfo();
         student.getSubject();
+        student.getYear();
         
         System.out.println("Let's test after pushing to ec2");
 
