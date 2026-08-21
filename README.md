@@ -9,3 +9,6 @@ This repository is for testing Jenkins.
 - Main.java
 - Student.java
 - Animal.java
+
+## Author
+Maintained by Vivek.
