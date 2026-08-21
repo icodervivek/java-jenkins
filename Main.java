@@ -15,6 +15,7 @@ public class Main{
         student.getResult();
         student.getName();
         student.getMoreInfo();
+        student.getSubject();
         
         System.out.println("Let's test after pushing to ec2");
 
