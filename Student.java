@@ -41,6 +41,10 @@ public class Student {
         System.out.println("2nd year");
     }
 
+    public void getUniversity(){
+        System.out.println("Bundu University");
+    }
+
     public void getMoreInfo(){
         System.out.println("Vivs is here in Java Jenkins Directory !");
     }
