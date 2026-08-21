@@ -23,5 +23,12 @@ public class Main{
         System.out.println("EC2 not working...");
 
         System.out.println("Did a good job while integrating this app from local to EC2 to Jenkins!");
+
+        System.out.println("Animal test starting...");
+        Animal animal = new Animal();
+        animal.setName("Leo");
+        animal.setAge(5);
+        System.out.println("Animal name: " + animal.getName());
+        System.out.println("Animal age: " + animal.getAge());
     }
 }
