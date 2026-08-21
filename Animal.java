@@ -6,6 +6,10 @@ public class Animal{
         return name;
    }
 
+    public int getAge(){
+        return age;
+    }
+
    public void setName(String name){
         this.name = name;
    }
