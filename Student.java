@@ -33,6 +33,10 @@ public class Student {
     }
 
 
+    public void getSubject(){
+        System.out.println("Java Programming");
+    }
+
     public void getMoreInfo(){
         System.out.println("Vivs is here in Java Jenkins Directory !");
     }
