@@ -5,6 +5,7 @@ public class Main{
         System.out.println("Hello There!");
         System.out.println("Date: " + new Date());
         System.out.println("This is after commit 2.");
+        System.out.println("Running scheduled batch of updates.");
 
         Student student = new Student();
         student.getStudent();
