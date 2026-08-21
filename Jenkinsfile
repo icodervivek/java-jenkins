@@ -11,5 +11,10 @@ pipeline{
                 sh 'java Main'
             }
         }
+        stage("cleanup"){
+            steps{
+                echo 'Build finished, cleaning up workspace.'
+            }
+        }
     }
 }
