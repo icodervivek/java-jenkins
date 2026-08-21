@@ -1,3 +1,6 @@
 # For Testing Jenkins
 
+## Status
+Actively maintained for CI/CD pipeline testing.
+
 This repository is for testing Jenkins.
