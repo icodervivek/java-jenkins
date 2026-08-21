@@ -32,4 +32,8 @@ public class Student {
         System.out.println("vivs");
     }
 
+
+    public void getMoreInfo(){
+        System.out.println("Vivs is here in Java Jenkins Directory !");
+    }
 }
