@@ -37,6 +37,10 @@ public class Student {
         System.out.println("Java Programming");
     }
 
+    public void getYear(){
+        System.out.println("2nd year");
+    }
+
     public void getMoreInfo(){
         System.out.println("Vivs is here in Java Jenkins Directory !");
     }
